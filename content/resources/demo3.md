@@ -2,12 +2,17 @@
 content_type: resource
 description: Clamps hold the wood laminations to the bending form until they dry.
   Image courtesy of OCW.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-296-furniture-making-spring-2005/98bd0f6a5fcfa30e0ffb1f7fcdb5dbfd_demo3.jpg
+file: /media/courses/4-296-furniture-making-spring-2005/98bd0f6a5fcfa30e0ffb1f7fcdb5dbfd_demo3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Clamps hold the wood laminations to the bending form until they dry.
   credit: Image courtesy of OCW.
   image-alt: Technique demonstrations.
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: demo3.jpg
 uid: 98bd0f6a-5fcf-a30e-0ffb-1f7fcdb5dbfd

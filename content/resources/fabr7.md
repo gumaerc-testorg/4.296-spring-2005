@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Dan works on box joints for his chair design. Image courtesy of OCW.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-296-furniture-making-spring-2005/2ed8e44bb2d8e879e4c171254260ec1f_fabr7.jpg
+file: /media/courses/4-296-furniture-making-spring-2005/2ed8e44bb2d8e879e4c171254260ec1f_fabr7.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Dan works on box joints for his chair design.
   credit: Image courtesy of OCW.
   image-alt: Fabrication processes.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Fabrication Processes
+parent_type: CourseSection
 resourcetype: Image
 title: fabr7.jpg
 uid: 2ed8e44b-b2d8-e879-e4c1-71254260ec1f

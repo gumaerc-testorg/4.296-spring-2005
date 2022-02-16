@@ -1,11 +1,14 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c3f4d64a-674f-10c1-30d1-e7abfcc80d54
 ---
 
 ### Technique Demonstrations
-{{< image-gallery id="c3f4d64a-674f-10c1-30d1-e7abfcc80d54_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-296-furniture-making-spring-2005/" >}}
+{{< image-gallery id="c3f4d64a-674f-10c1-30d1-e7abfcc80d54_nanogallery2" baseUrl="/courses/4-296-furniture-making-spring-2005/" >}}
 {{< image-gallery-item href="e72dcc73dc9c8a628535967a7f9fdd7c_demo1.jpg" data-ngdesc="Chris Dewart demonstrates how to bore a mortice. Image courtesy of OCW." text="Chris Dewart demonstrates how to bore a mortice." >}}
 {{< image-gallery-item href="71b75efa442c37a12bb32fb56c61aad4_demo2.jpg" data-ngdesc="Chris places pieces of wood into the steamer. Image courtesy of OCW." text="Chris places pieces of wood into the steamer." >}}
 {{< image-gallery-item href="98bd0f6a5fcfa30e0ffb1f7fcdb5dbfd_demo3.jpg" data-ngdesc="Clamps hold the wood laminations to the bending form until they dry. Image courtesy of OCW." text="Clamps hold the wood laminations to the bending form until they dry." >}}
