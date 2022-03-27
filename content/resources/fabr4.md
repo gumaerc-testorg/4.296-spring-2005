@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Fabrication Processes
 parent_type: CourseSection
+parent_uid: b04a83ac-6ce1-b70c-5173-ea9e886d5aa3
 resourcetype: Image
 title: fabr4.jpg
 uid: 77d6041c-cc72-3a57-b5ac-0608f81a5681

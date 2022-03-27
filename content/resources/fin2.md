@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Final Projects
 parent_type: CourseSection
+parent_uid: 3da88089-144c-9bd5-b433-1b14297c5ae2
 resourcetype: Image
 title: fin2.jpg
 uid: d8acda33-d03a-5b18-f524-06cb315b75d6

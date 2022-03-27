@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Videos
 parent_type: CourseSection
+parent_uid: 4baa8b61-df88-0ca4-53b9-bc27df35be3d
 resourcetype: Image
 title: video3.jpg
 uid: 736adbeb-da08-f0be-9490-66ac45087821
