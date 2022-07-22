@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A post-chiseling view of a box piece. Image courtesy of OCW.
-file: /media/courses/4-296-furniture-making-spring-2005/47bf2436735d4835a3bca81d03297896_penbox4.jpg
+file: /courses/4-296-furniture-making-spring-2005/47bf2436735d4835a3bca81d03297896_penbox4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A post-chiseling view of a box piece.
@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Pencil box construction.
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -17,3 +18,4 @@ resourcetype: Image
 title: penbox4.jpg
 uid: 47bf2436-735d-4835-a3bc-a81d03297896
 ---
+A post-chiseling view of a box piece. Image courtesy of OCW.
