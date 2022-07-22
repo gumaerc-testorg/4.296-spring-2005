@@ -1,13 +1,17 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: c3f4d64a-674f-10c1-30d1-e7abfcc80d54
 title: Fabrication Processes
 uid: b04a83ac-6ce1-b70c-5173-ea9e886d5aa3
 ---
 
 ### Fabrication Processes
-{{< image-gallery id="b04a83ac-6ce1-b70c-5173-ea9e886d5aa3_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-296-furniture-making-spring-2005/" >}}
+{{< image-gallery id="b04a83ac-6ce1-b70c-5173-ea9e886d5aa3_nanogallery2" baseUrl="/courses/4-296-furniture-making-spring-2005/" >}}
 {{< image-gallery-item href="fb2fdbd6dc14459037d3491ddc864367_fabr1.jpg" data-ngdesc="An incline is chiseled into the wood, showing a rough pre-finish surface. Image courtesy of OCW." text="An incline is chiseled into the wood, showing a rough pre-finish surface." >}}
 {{< image-gallery-item href="2d80ea38bcda2c1dc356d08feb67039f_fabr2.jpg" data-ngdesc="The surface is shaped more finely, revealing a smoother surface. Image courtesy of OCW." text="The surface is shaped more finely, revealing a smoother surface." >}}
 {{< image-gallery-item href="59fe1f9a94fa851e3b078058949899b1_fabr3.jpg" data-ngdesc="Styles of chiseling can vary greatly… Image courtesy of OCW." text="Styles of chiseling can vary greatly…" >}}

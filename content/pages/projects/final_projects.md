@@ -1,13 +1,17 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 3aa84470-d2e3-8a9f-2b50-491f175bb6d4
 title: Final Projects
 uid: 3da88089-144c-9bd5-b433-1b14297c5ae2
 ---
 
 ### Final Projects
-{{< image-gallery id="3da88089-144c-9bd5-b433-1b14297c5ae2_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-296-furniture-making-spring-2005/" >}}
+{{< image-gallery id="3da88089-144c-9bd5-b433-1b14297c5ae2_nanogallery2" baseUrl="/courses/4-296-furniture-making-spring-2005/" >}}
 {{< image-gallery-item href="56f4c2a6df6ccdda1fa87194d9ef880c_fin1.jpg" data-ngdesc="A three chair set that fits together, by Dan Fouad. Image by Chris Dewart." text="A three chair set that fits together, by Dan Fouad." >}}
 {{< image-gallery-item href="d8acda33d03a5b18f52406cb315b75d6_fin2.jpg" data-ngdesc="The three chair set compacted. Image by Chris Dewart." text="The three chair set compacted." >}}
 {{< image-gallery-item href="ee2b098bbee6535c340d11281681860f_fin3.jpg" data-ngdesc="A coffee table with a contoured top and angular legs, by James Smith. Image by Chris Dewart." text="A coffee table with a contoured top and angular legs, by James Smith." >}}

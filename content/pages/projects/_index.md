@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 3aa84470-d2e3-8a9f-2b50-491f175bb6d4
 ---
@@ -7,7 +10,7 @@ uid: 3aa84470-d2e3-8a9f-2b50-491f175bb6d4
 The student projects from the semester, both the pencil box and final project, are shown here.
 
 ### Pencil Boxes
-{{< image-gallery id="3aa84470-d2e3-8a9f-2b50-491f175bb6d4_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-296-furniture-making-spring-2005/" >}}
+{{< image-gallery id="3aa84470-d2e3-8a9f-2b50-491f175bb6d4_nanogallery2" baseUrl="/courses/4-296-furniture-making-spring-2005/" >}}
 {{< image-gallery-item href="e12d7f8ab2f9c97789dbbb4c4c8c1a19_penbox1.jpg" data-ngdesc="Sawing out the pieces to construct dovetail joints. Image courtesy of OCW." text="Sawing out the pieces to construct dovetail joints." >}}
 {{< image-gallery-item href="5b16c3eb4755c7c0adbfe0d225867b85_penbox2.jpg" data-ngdesc="Chiseling out the remaining pieces. Image courtesy of OCW." text="Chiseling out the remaining pieces." >}}
 {{< image-gallery-item href="24364dfa8aac07ce0b8956411ff5497a_penbox3.jpg" data-ngdesc="A clamp holds the wood stable while pieces are sawed away. Image courtesy of OCW." text="A clamp holds the wood stable while pieces are sawed away." >}}
