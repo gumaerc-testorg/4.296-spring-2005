@@ -17,7 +17,7 @@ uid: c3f4d64a-674f-10c1-30d1-e7abfcc80d54
 {{< image-gallery-item href="fd09f506840f674c2ce7229626a41b8d_demo6.jpg" data-ngdesc="A wood-steaming chamber, ready to prepare wood for bending. Image courtesy of OCW." text="A wood-steaming chamber, ready to prepare wood for bending." >}}  
 {{< image-gallery-item href="0f6ea4bb8621e27274b2409c487cb362_demo7.jpg" data-ngdesc="Plywood bent to the shape of a styrofoam form for vacuum forming. Image courtesy of OCW." text="Plywood bent to the shape of a styrofoam form for vacuum forming." >}}  
 {{< image-gallery-item href="5ce056322b671a1f6fb23a6d0c9befd4_demo9.jpg" data-ngdesc="A close-up photo of the CNC cut pattern. Image courtesy of OCW." text="A close-up photo of the CNC cut pattern." >}}  
-{{}}
+{{</ image-gallery >}}
 
 ### Videos
 
