@@ -1,14 +1,11 @@
 ---
 content_type: page
-learning_resource_types:
-- Readings
-ocw_type: CourseSection
+description: Readings section contains the required readings for the course.
+draft: false
 title: Readings
 uid: 6b5e303c-3f85-a99a-5d4f-ed2c6be69a89
 ---
-
-Reading List
-------------
+## Reading List
 
 ### How-To Books
 
@@ -18,8 +15,7 @@ Frid, Tage. _Tage Frid Teaches Woodworking Book 3: Furnituremaking_. Newtown, CT
 
 Greene, Jeffrey P. _American Furniture of the 18th Century: History, Technique, and Structure_. Newtown, CT: Taunton Press, 1996. ISBN: 1561581046.
 
-###   
-Technical Woodworking
+### Technical Woodworking
 
 Hoadley, R. Bruce. _Understanding Wood: A Craftsman's Guide to Wood Technology_. Newtown, CT: Taunton Press, 1985. ISBN: 0918804051.
 
@@ -29,6 +25,6 @@ Fairbanks, Jonathan L. _American furniture, 1620 to the present_. New York, NY: 
 
 Kates, G. _Chinese Household Furniture_. New York, NY: Dover Publications, 1962. ISBN: 048620958X.
 
-Edited by the editors of Fine Woodworking Magazine_. Fine Woodworking Design Book Three_. Newtown, CT: Taunton Press, 1983. ISBN: 0918804183.
+Edited by the editors of Fine Woodworking Magazine\_. Fine Woodworking Design Book Three\_. Newtown, CT: Taunton Press, 1983. ISBN: 0918804183.
 
 Cooke, Edward S., Jr., Gerald W. R. Ward, and Kelly H. L'Ecuyer. _The Maker's Hand: American Studio Furniture 1940-1990_. Boston, MA: Museum of Fine Arts Publications, 2004. ISBN: 0878466622.
