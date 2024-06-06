@@ -2,6 +2,7 @@
 content_type: resource
 description: Dan works on box joints for his chair design. Image courtesy of OCW.
 file: /courses/4-296-furniture-making-spring-2005/2ed8e44bb2d8e879e4c171254260ec1f_fabr7.jpg
+file_size: 52121
 file_type: image/jpeg
 image_metadata:
   caption: Dan works on box joints for his chair design.

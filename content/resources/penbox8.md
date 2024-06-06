@@ -2,6 +2,7 @@
 content_type: resource
 description: Finished pencil boxes. Image courtesy of OCW.
 file: /courses/4-296-furniture-making-spring-2005/358813bd2bbced1899349b98a0f65af0_penbox8.jpg
+file_size: 37218
 file_type: image/jpeg
 image_metadata:
   caption: Finished pencil boxes.

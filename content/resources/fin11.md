@@ -3,6 +3,7 @@ content_type: resource
 description: A table with a unique cross-legged pattern, by Nathalie Westervelt. Image
   by Chris Dewart.
 file: /courses/4-296-furniture-making-spring-2005/f6b18e70988e56531934dee9c510508c_fin11.jpg
+file_size: 25974
 file_type: image/jpeg
 image_metadata:
   caption: A table with a unique cross-legged pattern, by Nathalie Westervelt.

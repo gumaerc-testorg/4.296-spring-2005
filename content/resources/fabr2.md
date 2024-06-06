@@ -3,6 +3,7 @@ content_type: resource
 description: The surface is shaped more finely, revealing a smoother surface. Image
   courtesy of OCW.
 file: /courses/4-296-furniture-making-spring-2005/2d80ea38bcda2c1dc356d08feb67039f_fabr2.jpg
+file_size: 39797
 file_type: image/jpeg
 image_metadata:
   caption: The surface is shaped more finely, revealing a smoother surface.
