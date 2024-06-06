@@ -3,6 +3,7 @@ content_type: resource
 description: This table, by Lira Nikolovska, has a built in compartment for fruit
   storage. Image by Chris Dewart.
 file: /courses/4-296-furniture-making-spring-2005/ff7196b830117d6e9c76cce60aefa711_fin5.jpg
+file_size: 26602
 file_type: image/jpeg
 image_metadata:
   caption: This table, by Lira Nikolovska, has a built in compartment for fruit storage.

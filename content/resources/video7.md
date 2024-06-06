@@ -2,6 +2,7 @@
 content_type: resource
 description: A demonstration of the CNC mill maneuvering. Image courtesy of OCW.
 file: /courses/4-296-furniture-making-spring-2005/89c70bdccd07bdb7114d54af1041dc07_video7.jpg
+file_size: 25440
 file_type: image/jpeg
 image_metadata:
   caption: A demonstration of the CNC mill maneuvering.

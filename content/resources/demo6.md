@@ -3,6 +3,7 @@ content_type: resource
 description: A wood-steaming chamber, ready to prepare wood for bending. Image courtesy
   of OCW.
 file: /courses/4-296-furniture-making-spring-2005/fd09f506840f674c2ce7229626a41b8d_demo6.jpg
+file_size: 55481
 file_type: image/jpeg
 image_metadata:
   caption: A wood-steaming chamber, ready to prepare wood for bending.
