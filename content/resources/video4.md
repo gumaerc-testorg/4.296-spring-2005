@@ -2,6 +2,7 @@
 content_type: resource
 description: A basic wood bending demonstration. Image courtesy of OCW.
 file: /courses/4-296-furniture-making-spring-2005/79aeb1eeffa7648c4adb828855859041_video4.jpg
+file_size: 25223
 file_type: image/jpeg
 image_metadata:
   caption: A basic wood bending demonstration.

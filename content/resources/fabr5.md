@@ -3,6 +3,7 @@ content_type: resource
 description: Opposite ends of a joint are formed to combine two pieces of wood. Image
   courtesy of OCW.
 file: /courses/4-296-furniture-making-spring-2005/bdae93f24b640caae4e9cfc38f6f0b21_fabr5.jpg
+file_size: 48307
 file_type: image/jpeg
 image_metadata:
   caption: Opposite ends of a joint are formed to combine two pieces of wood.
