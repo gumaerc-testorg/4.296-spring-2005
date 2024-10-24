@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A post-chiseling view of a box piece. Image courtesy of OCW.
-file: /courses/4-296-furniture-making-spring-2005/47bf2436735d4835a3bca81d03297896_penbox4.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/47bf2436735d4835a3bca81d03297896_penbox4.jpg
 file_size: 42899
 file_type: image/jpeg
 image_metadata:

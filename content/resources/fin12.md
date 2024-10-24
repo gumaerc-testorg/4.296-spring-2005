@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Side view of the cross-legged pattern. Image by Chris Dewart.
-file: /courses/4-296-furniture-making-spring-2005/612116a7af7774f19a9dbb9383d5d1c7_fin12.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/612116a7af7774f19a9dbb9383d5d1c7_fin12.jpg
 file_size: 26607
 file_type: image/jpeg
 image_metadata:

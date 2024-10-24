@@ -2,7 +2,7 @@
 content_type: resource
 description: A full view of a table with a built-in storage area, by Lira Nikolovska.
   Image by Chris Dewart.
-file: /courses/4-296-furniture-making-spring-2005/556961c1bb5b9dd111610cbb946bcba6_fin7.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/556961c1bb5b9dd111610cbb946bcba6_fin7.jpg
 file_size: 23476
 file_type: image/jpeg
 image_metadata:

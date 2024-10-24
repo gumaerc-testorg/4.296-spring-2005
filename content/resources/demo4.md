@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chris shows an example of a wood bend. Image courtesy of OCW.
-file: /courses/4-296-furniture-making-spring-2005/abfedabe8ecc8da8bb6b324a9a502fb2_demo4.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/abfedabe8ecc8da8bb6b324a9a502fb2_demo4.jpg
 file_size: 61301
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: A hammer and chisel are used for the first stages of contouring a surface.
   Image courtesy of OCW.
-file: /courses/4-296-furniture-making-spring-2005/c771ebaa56f45ef5922d9d2ad5c6f517_video2.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/c771ebaa56f45ef5922d9d2ad5c6f517_video2.jpg
 file_size: 22683
 file_type: image/jpeg
 image_metadata:

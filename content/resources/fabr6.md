@@ -2,7 +2,7 @@
 content_type: resource
 description: Together, the pieces are joined to form the legs of a table. Image courtesy
   of OCW.
-file: /courses/4-296-furniture-making-spring-2005/006b1014f275baf3364e9e9f14ab6391_fabr6.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/006b1014f275baf3364e9e9f14ab6391_fabr6.jpg
 file_size: 50488
 file_type: image/jpeg
 image_metadata:
