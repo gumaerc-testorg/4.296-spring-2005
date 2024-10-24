@@ -2,7 +2,7 @@
 content_type: resource
 description: A coffee table with a contoured top and angular legs, by James Smith.
   Image by Chris Dewart.
-file: /courses/4-296-furniture-making-spring-2005/ee2b098bbee6535c340d11281681860f_fin3.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/ee2b098bbee6535c340d11281681860f_fin3.jpg
 file_size: 25693
 file_type: image/jpeg
 image_metadata:

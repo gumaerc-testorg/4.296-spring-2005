@@ -2,7 +2,7 @@
 content_type: resource
 description: An incline is chiseled into the wood, showing a rough pre-finish surface.
   Image courtesy of OCW.
-file: /courses/4-296-furniture-making-spring-2005/fb2fdbd6dc14459037d3491ddc864367_fabr1.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/fb2fdbd6dc14459037d3491ddc864367_fabr1.jpg
 file_size: 56552
 file_type: image/jpeg
 image_metadata:
