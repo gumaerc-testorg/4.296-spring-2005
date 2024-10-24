@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A compartment sits under the table top. Image by Chris Dewart.
-file: /courses/4-296-furniture-making-spring-2005/730a83f65d0ae3ffc3bdc5eed4c9ed25_fin9.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/730a83f65d0ae3ffc3bdc5eed4c9ed25_fin9.jpg
 file_size: 21828
 file_type: image/jpeg
 image_metadata:

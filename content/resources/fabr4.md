@@ -2,7 +2,7 @@
 content_type: resource
 description: "\u2026and, at times, more drastic measures are taken. Image courtesy\
   \ of OCW."
-file: /courses/4-296-furniture-making-spring-2005/77d6041ccc723a57b5ac0608f81a5681_fabr4.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/77d6041ccc723a57b5ac0608f81a5681_fabr4.jpg
 file_size: 47621
 file_type: image/jpeg
 image_metadata:

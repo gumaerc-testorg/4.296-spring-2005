@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A unique method of using the hammer and chisel. Image courtesy of OCW.
-file: /courses/4-296-furniture-making-spring-2005/736adbebda08f0be949066ac45087821_video3.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/736adbebda08f0be949066ac45087821_video3.jpg
 file_size: 22995
 file_type: image/jpeg
 image_metadata:

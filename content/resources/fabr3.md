@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Styles of chiseling can vary greatly\u2026 Image courtesy of OCW."
-file: /courses/4-296-furniture-making-spring-2005/59fe1f9a94fa851e3b078058949899b1_fabr3.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/59fe1f9a94fa851e3b078058949899b1_fabr3.jpg
 file_size: 53382
 file_type: image/jpeg
 image_metadata:
