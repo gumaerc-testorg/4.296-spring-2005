@@ -3,6 +3,7 @@ content_type: page
 description: Lecture notes section contains video and images of techniques used in
   the class.
 draft: false
+show_section_pages: true
 title: Lecture Notes
 uid: c3f4d64a-674f-10c1-30d1-e7abfcc80d54
 ---
