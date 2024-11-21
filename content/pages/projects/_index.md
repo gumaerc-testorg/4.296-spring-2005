@@ -5,6 +5,7 @@ description: Projects section contains the information about the project to be s
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
+show_section_pages: true
 title: Projects
 uid: 3aa84470-d2e3-8a9f-2b50-491f175bb6d4
 ---
