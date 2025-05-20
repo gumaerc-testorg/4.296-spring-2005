@@ -2,7 +2,7 @@
 content_type: resource
 description: These apples rest comfortably on this chair by Lilly Donohue. Image by
   Chris Dewart.
-file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/5c0356890cd6d2a1ac7b93f72e7c239e_fin4.jpg
+file: /courses/4-296-furniture-making-spring-2005/5c0356890cd6d2a1ac7b93f72e7c239e_fin4.jpg
 file_size: 24899
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chiseling out the remaining pieces. Image courtesy of OCW.
-file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/5b16c3eb4755c7c0adbfe0d225867b85_penbox2.jpg
+file: /courses/4-296-furniture-making-spring-2005/5b16c3eb4755c7c0adbfe0d225867b85_penbox2.jpg
 file_size: 40251
 file_type: image/jpeg
 image_metadata:

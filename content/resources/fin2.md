@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The three chair set compacted. Image by Chris Dewart.
-file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/d8acda33d03a5b18f52406cb315b75d6_fin2.jpg
+file: /courses/4-296-furniture-making-spring-2005/d8acda33d03a5b18f52406cb315b75d6_fin2.jpg
 file_size: 22922
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: The CNC mill creates a complex form on a table top. Image courtesy of
   OCW.
-file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/d52d0fcd8d53442c630b5dd900a5e9b7_demo5.jpg
+file: /courses/4-296-furniture-making-spring-2005/d52d0fcd8d53442c630b5dd900a5e9b7_demo5.jpg
 file_size: 52838
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A chair set is revealed from the compact form. Image courtesy of OCW.
-file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/7d8896fedd665d263f3cfbba0a29c92e_video8.jpg
+file: /courses/4-296-furniture-making-spring-2005/7d8896fedd665d263f3cfbba0a29c92e_video8.jpg
 file_size: 20922
 file_type: image/jpeg
 image_metadata:
