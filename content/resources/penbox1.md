@@ -2,7 +2,7 @@
 content_type: resource
 description: Sawing out the pieces to construct dovetail joints. Image courtesy of
   OCW.
-file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/e12d7f8ab2f9c97789dbbb4c4c8c1a19_penbox1.jpg
+file: /courses/4-296-furniture-making-spring-2005/e12d7f8ab2f9c97789dbbb4c4c8c1a19_penbox1.jpg
 file_size: 49256
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bent wood laminations before glue up. Image courtesy of OCW.
-file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/47bcdedc7c3797b0fb15f4b52d0315cd_fabr8.jpg
+file: /courses/4-296-furniture-making-spring-2005/47bcdedc7c3797b0fb15f4b52d0315cd_fabr8.jpg
 file_size: 55967
 file_type: image/jpeg
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: A contoured, adjustable reclining chair, by Priscilla Graeff. Image courtesy
   of OCW.
-file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/affc03701fe7e36be29590dfdebdd988_fin10.jpg
+file: /courses/4-296-furniture-making-spring-2005/affc03701fe7e36be29590dfdebdd988_fin10.jpg
 file_size: 61907
 file_type: image/jpeg
 image_metadata:

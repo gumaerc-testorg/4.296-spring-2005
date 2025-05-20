@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chris places pieces of wood into the steamer. Image courtesy of OCW.
-file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/71b75efa442c37a12bb32fb56c61aad4_demo2.jpg
+file: /courses/4-296-furniture-making-spring-2005/71b75efa442c37a12bb32fb56c61aad4_demo2.jpg
 file_size: 50110
 file_type: image/jpeg
 image_metadata:

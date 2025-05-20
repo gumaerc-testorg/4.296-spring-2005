@@ -2,7 +2,7 @@
 content_type: resource
 description: A clamp holds the wood stable while pieces are sawed away. Image courtesy
   of OCW.
-file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/24364dfa8aac07ce0b8956411ff5497a_penbox3.jpg
+file: /courses/4-296-furniture-making-spring-2005/24364dfa8aac07ce0b8956411ff5497a_penbox3.jpg
 file_size: 54135
 file_type: image/jpeg
 image_metadata:

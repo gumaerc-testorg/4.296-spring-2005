@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chris Dewart demonstrates how to bore a mortice. Image courtesy of OCW.
-file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/e72dcc73dc9c8a628535967a7f9fdd7c_demo1.jpg
+file: /courses/4-296-furniture-making-spring-2005/e72dcc73dc9c8a628535967a7f9fdd7c_demo1.jpg
 file_size: 58332
 file_type: image/jpeg
 image_metadata:

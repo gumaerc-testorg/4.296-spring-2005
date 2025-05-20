@@ -2,7 +2,7 @@
 content_type: resource
 description: End view of this table with a unique curvature in its design. Image by
   Chris Dewart.
-file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/4e08800d01e86350ae141528902d1aa7_fin8.jpg
+file: /courses/4-296-furniture-making-spring-2005/4e08800d01e86350ae141528902d1aa7_fin8.jpg
 file_size: 23491
 file_type: image/jpeg
 image_metadata:
