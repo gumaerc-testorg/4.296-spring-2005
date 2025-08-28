@@ -2,7 +2,7 @@
 content_type: resource
 description: Plywood bent to the shape of a styrofoam form for vacuum forming. Image
   courtesy of OCW.
-file: /courses/4-296-furniture-making-spring-2005/0f6ea4bb8621e27274b2409c487cb362_demo7.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/0f6ea4bb8621e27274b2409c487cb362_demo7.jpg
 file_size: 48384
 file_type: image/jpeg
 image_metadata:

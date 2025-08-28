@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A complex wood bending demonstration (Part I). Image courtesy of OCW.
-file: /courses/4-296-furniture-making-spring-2005/72511b5ebd66e3db20b8fa7f7e20f6c4_video5.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/72511b5ebd66e3db20b8fa7f7e20f6c4_video5.jpg
 file_size: 23158
 file_type: image/jpeg
 image_metadata:
