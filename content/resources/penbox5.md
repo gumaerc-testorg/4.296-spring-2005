@@ -2,7 +2,7 @@
 content_type: resource
 description: One example of a design for the side of the pencil box. Image courtesy
   of OCW.
-file: /courses/4-296-furniture-making-spring-2005/bf548a57656825eb11cc770bb3f3b1e5_penbox5.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/bf548a57656825eb11cc770bb3f3b1e5_penbox5.jpg
 file_size: 63494
 file_type: image/jpeg
 image_metadata:

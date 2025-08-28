@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: More pins add stability to the box. Image courtesy of OCW.
-file: /courses/4-296-furniture-making-spring-2005/f8058de463ec367e30a6f62d580feb7d_penbox6.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/f8058de463ec367e30a6f62d580feb7d_penbox6.jpg
 file_size: 50152
 file_type: image/jpeg
 image_metadata:

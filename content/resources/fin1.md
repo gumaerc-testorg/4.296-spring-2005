@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A three chair set that fits together, by Dan Fouad. Image by Chris Dewart.
-file: /courses/4-296-furniture-making-spring-2005/56f4c2a6df6ccdda1fa87194d9ef880c_fin1.jpg
+file: /ol-ocw-studio-app/courses/4-296-furniture-making-spring-2005/56f4c2a6df6ccdda1fa87194d9ef880c_fin1.jpg
 file_size: 28465
 file_type: image/jpeg
 image_metadata:
